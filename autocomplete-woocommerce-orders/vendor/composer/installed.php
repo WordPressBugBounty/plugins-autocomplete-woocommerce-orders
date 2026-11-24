@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'quadlayers/autocomplete-woocommerce-orders',
-        'pretty_version' => 'v3.5.12',
-        'version' => '3.5.12.0',
-        'reference' => '3b8e16cfdd08e5ff769476393f9ac08c242d61d6',
+        'pretty_version' => 'v3.5.13',
+        'version' => '3.5.13.0',
+        'reference' => 'fc4adaaf6f178672b3a2bdc87ffaed5966422c77',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -65,9 +65,9 @@
             'dev_requirement' => false,
         ),
         'quadlayers/autocomplete-woocommerce-orders' => array(
-            'pretty_version' => 'v3.5.12',
-            'version' => '3.5.12.0',
-            'reference' => '3b8e16cfdd08e5ff769476393f9ac08c242d61d6',
+            'pretty_version' => 'v3.5.13',
+            'version' => '3.5.13.0',
+            'reference' => 'fc4adaaf6f178672b3a2bdc87ffaed5966422c77',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
